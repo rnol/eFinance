@@ -1,8 +1,6 @@
 # eFinance
 
-install dependencies
 
-npm install
 
 install dependencies
 
